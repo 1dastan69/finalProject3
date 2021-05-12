@@ -1,3 +1,12 @@
+#Backend:
+https://final-project-java.herokuapp.com/api/employee
+
+#Frontend:
+https://final-project-java-front.herokuapp.com/
+
+#Swagger:
+https://final-project-java.herokuapp.com/swagger-ui.html#/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
